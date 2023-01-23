@@ -1,6 +1,5 @@
 
 H4X-GG
-/
 OPEN_SOURCE
 Public
 Code
